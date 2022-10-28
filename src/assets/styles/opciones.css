@@ -1,0 +1,20 @@
+.div-opciones{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 50px;
+    background-color: white;
+    border: 1px black;
+    border-radius: 5px;
+}
+
+.div-opciones button{
+    background-color: white;
+    margin-right: 50px;
+    color: black;
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+}
+

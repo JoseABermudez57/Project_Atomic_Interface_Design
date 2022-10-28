@@ -1,0 +1,13 @@
+.carrusel-div img {
+    width: 50%;
+    padding-top: 5%;
+}
+
+.carrusel-div button{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.carrusel-div button img{
+    width: 50px;
+}

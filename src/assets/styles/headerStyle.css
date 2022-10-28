@@ -1,0 +1,39 @@
+header{
+    background-color: cadetblue;
+    width: 100%;
+    display: flex;
+}
+
+header img {
+    width: 150px;
+}
+
+header input {
+    background-color: white;
+    color: black;
+    text-align: center;
+    justify-content: flex-end;
+    width: 50%;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.Logo {
+    padding-top: 1%;
+    padding-left: 2%;
+    width: 20%;
+}
+
+.name{
+    font-size:x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: black;
+    padding-top: 4%;
+}
+
+.container-input {
+    padding-top: 5%;
+    margin-right: 10%;
+    width: 80%;
+    text-align: right;
+}
